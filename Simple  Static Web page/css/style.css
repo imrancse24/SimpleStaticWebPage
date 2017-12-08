@@ -1,0 +1,90 @@
+/*
+Project Name: 	mollabd.com e-commerce site.;
+Description: 	This website is created for online shopping site.;
+Date: 			26February 2016
+Technologies: 	html, css, javascript, illustrator, photoshop, jquery;
+Color: 			;
+Layout: 		Double column template.
+Company:		mollabd Limited;
+Designer:       Imran Molla;
+Developers: 	Imran Molla  ;
+
+*/
+
+
+/*=================================================
+ |               css for  header                    |
+===================================================                */
+
+        /*body{background:#777 url("../images/bg.jpg");}*/
+		*{padding: 0;margin: 0;}
+
+	.fLeft {float: left;}
+	.fRight {float: right;}
+	.cLeft {clear: left;}
+	.cRight {clear: right;}
+	.cBoth {clear: both;}
+
+	.siteWrapper{width: 1000px;margin: 0 auto;}
+	#sitePart{width: 200px; background:#83C5E7;height: 1105px ;}
+	#sitebar {width:  200px;}
+	
+	/*#name1{background: url('images/DSCF7078.JPG');}*/
+	#sitebar ul {padding: 10px 0;}
+	#sitebar ul li{list-style: none;padding: 5px; color: white; }
+	#sitebar ul li:hover {width: 150px;box-shadow: 2px 2px 2px #000;color: green;}
+	#sitebar ul  li a{text-decoration: none;padding-left: 15px;font-size: 20px;font-weight: bold;}
+	#sitebar ul  li a:hover{color: gray; padding: 10px 20px ;}
+
+	#mainPart{width: 800px;}
+
+	#productArea{width: 800px; text-align: center;}
+
+	#headerBG{background:#626262 url('../images/web-design (1).jpg') no-repeat; height: 200px;
+ 
+				text-align: center;padding-top: 70px;
+			}
+
+	#heriMe  button a {background: red; color: white;width: 200px;}	
+	#call{
+		width:250px; padding: 40px 0 0 0;
+	}
+
+	
+
+			#portfolio{padding-left: 25px; text-decoration: italic;color: gray;}
+		#menuArea{ height: 60px; background:white url('../images/menuBg.jpg') repeat-x left top; }
+	#menu {width:  650px;}
+	
+
+	#menu {}
+	#menu ul{}
+	#menu ul li{list-style: none;float: left;padding: 10px 20px; width: 120px;}
+	#menu ul li:hover {background: #CBA423;width: 100px;}
+	#menu ul li a{text-decoration: none;font-size: 18px;font-weight: 60px;color: #7E41A1;}
+	#menu ul li a:hover {color: #fff; ;}
+	#part1{ background: #02BAC4;  }
+	#two{ background: #90969F;}
+	#part3{ background: #9E9E9E;}
+	#part4{ background: #212E3F;}
+	#part5{ background: #363441;}
+	#part6{ background: #6176AB;}
+	.center{text-align: center; }
+
+
+
+
+	#product{padding-left: 30px;}
+
+
+	#footer {height: 100px;background: #02BAC4;border-top: 3px solid #47245A;position: relative;}
+	.footerContent {width: 280px;margin: 0 20px;}
+	.footerContent ul li{list-style: none;padding:0 20px;}
+	.footerContent ul li{text-decoration: none;}
+
+
+
+
+
+	#footerBottom {height: 25px;width: 1000px;color: red; text-align: center;font-size: 12px;padding-top: 5px;background: gary;}
+	.backTop {position: fixed;right: 10px;bottom: 10px;}
